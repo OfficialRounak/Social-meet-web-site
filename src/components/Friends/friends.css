@@ -1,0 +1,21 @@
+.friend-list{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+.friends{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.friend-img{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 2px solid black;
+
+}
+.friend-name{
+    margin-left: 10px;
+}
